@@ -2,7 +2,7 @@
 
 <!-- ===== BANNER ===== -->
 <!-- Swap this for your own image, or generate one with capsule-render (see notes below) -->
-<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:D62828,100:8B0000&height=200&section=header&text=YourName&fontSize=90&fontColor=0d0d0d&fontAlignY=55&desc=&animation=fadeIn](https://imgur.com/a/Fq9d5vv)" width="100%" alt="banner"/>
+<img src="https://i.imgur.com/fEnn1Kt.png" width="100%" alt="banner"/>
 
 <br/>
 
