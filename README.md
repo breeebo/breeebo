@@ -33,7 +33,7 @@
 
 I am based in Vancouver and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.
 
-Today, I'm rebuilding **CANCare** (web app connecting elderly individuals in need of care with caretakers) and building out **MealPair** (web app that recommends meals). Day-to-day, I work with JavaScript, Express, and PostgreSQL to realize my ideas. Whether it's designing secure RESTful APIs or building engaging, intuitive frontends, I revel in turning complex problems into clean and functional solutions.
+Today, I'm rebuilding **CANCare** (web app connecting elderly individuals in need of care with caretakers) and building out **MealPair** (web app that recommends meals). Day-to-day, I work with JavaScript, Express, and PostgreSQL to realize my ideas. Whether it's designing secure RESTful APIs or building engaging, intuitive frontends, I love turning complex problems into clean and functional solutions.
 
 ---
 
