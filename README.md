@@ -46,6 +46,5 @@ Today, I'm rebuilding **CANCare** (web app connecting elderly individuals in nee
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=breeebo&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=breeebo&theme=dark&hide_border=true" width="48%"/>
 
 </div>
