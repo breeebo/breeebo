@@ -8,16 +8,16 @@
 
 <!-- ===== BUTTON ROW ===== -->
 <!-- Each badge below is a shields.io badge. Swap the link and label for your own. -->
-<a href="https://yourwebsite.com">
+<!-- <a href="https://yourwebsite.com">
   <img src="https://img.shields.io/badge/YOURSITE.IN-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-</a>
-<a href="https://linkedin.com/in/yourhandle">
+</a> -->
+<a href="https://www.linkedin.com/in/aubrey-tran-8780b8258">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:you@example.com">
+<a href="mailto:aubreyoliviatran@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://yourwebsite.com/resume.pdf">
+<a href="https://drive.google.com/file/d/14YYogorusA9NEISHDY1mz0vFAI61t9l4/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
 
