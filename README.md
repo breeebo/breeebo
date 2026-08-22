@@ -17,7 +17,7 @@
 <a href="mailto:aubreyoliviatran@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://drive.google.com/file/d/14YYogorusA9NEISHDY1mz0vFAI61t9l4/view?usp=sharing">
+<a href="https://drive.google.com/file/d/193I3ERFtcE-FKAY3bjxRcPcCV2w7rkG0/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
 
